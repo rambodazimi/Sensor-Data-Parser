@@ -128,11 +128,10 @@ This report, however, should be stored on to a file called sensorstats.html in t
 
 <TABLE>
 
-<TR><TH>Year</TH>...<TH>Day</TH><TH>TempS1</TH>...<TH>TempS5</TH><TH>Total</TH><TR>
+<TR><TH>Year</TH><TH>Day</TH><TH>TempS1</TH><TH>TempS5</TH><TH>Total</TH><TR>
 
-<TR><TD>2021</TD><TD>11</TD><TD>11</TD>...<TD>3</TD><TD>2</TD><TD>11</TD></TR>
+<TR><TD>2021</TD><TD>11</TD><TD>11</TD><TD>3</TD><TD>2</TD><TD>11</TD></TR>
 
-...
 
 </TABLE>
 
